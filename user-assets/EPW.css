@@ -1,0 +1,671 @@
+.navbar-default {
+    background-color: #2a9bf9 !important;
+    border-color: #e7e7e7 !important;
+}
+
+h2, h2 {
+    font-size: 24px !important;
+	margin-bottom: 30px !important;
+}
+
+h3, h3 {
+    font-size: 16px !important;
+}
+
+h4, h4 {
+	font-size: 14px !important;
+	color: #555 !important;
+	padding: 5px !important;
+}
+
+p {
+	padding: 5px !important;
+	}
+
+th {
+    font-size: 12px !important;
+}
+
+.AddMedsBut {
+	color: #FFF !important;
+    background-color: #2a9bf9 !important;
+    border-color: #2a9bf9 !important;
+}
+
+.EditMedsBut {
+	color: #FFF !important;
+    background-color: #2a9bf9 !important;
+    border-color: #2a9bf9 !important;
+}
+
+.addMeds {
+	border: none !important;
+	margin-bottom: 20px !important;
+}
+
+a#butAddMeds:hover {
+    color: #FFF !important;
+    background-color: #2a9bf9 !important;
+    border-color: #2a9bf9 !important;
+}
+
+a#butEditMeds:hover {
+    color: #FFF !important;
+    background-color: #2a9bf9 !important;
+    border-color: #2a9bf9 !important;
+}
+
+a#butAddEDMed {
+    border: none !important;
+    font-size: 12px !important;
+    width: 100%;
+    background-color: #f9f9f9;
+	text-align: left;
+}
+
+a#butAddTTOMed {
+    border: none !important;
+    font-size: 12px !important;
+    width: 100%;
+    background-color: #f9f9f9;
+	text-align: left;
+}
+
+a#butAddDisMed {
+    border: none !important;
+    font-size: 12px !important;
+    width: 100%;
+    background-color: #f9f9f9;
+	text-align: left;
+}
+
+.has-success .checkbox, .has-success .checkbox-inline, .has-success .control-label, .has-success .help-block, .has-success .radio, .has-success .radio-inline, .has-success.checkbox label, .has-success.checkbox-inline label, .has-success.radio label, .has-success.radio-inline label {
+    color: #2a9bf9 !important;
+}
+
+.has-success .form-control {
+    border-color: #ccc !important;
+}
+
+section#scrollPatBanner {
+    background-color: #2a9bf9 !important;
+    flex: 0!important;
+    overflow-y: visible!important;
+}
+
+.PatBanner table {
+    border: none !important;
+}
+
+.content-block.PatBanner {
+    margin-bottom: 0px !important;
+}
+
+a#butBack {
+    background-color: #2a9bf9 !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+a#butBack:hover {
+    background-color: #2a9bf9 !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+
+a#butExpand {
+    background-color: #2a9bf9 !important;
+    border: none !important;
+    color: #fff !important;
+}
+
+a#butExpand:hover {
+    background-color: #2a9bf9 !important;
+    border: none !important;
+    color: #fff !important;
+}
+
+.PatBanner th {
+    font-size: large !important;
+    padding: 0px !important;
+    border: none !important;
+    color: #FFF !important;
+}
+
+.PatBanner td {
+    font-size: small !important;
+    padding: 0px !important;
+    border: none !important;
+    color: #FFF !important;
+	text-align: left !important;
+}
+
+section#rowPatientSearch {
+    background-color: #fff !important;
+    border: none !important;
+	justify-content: flex-start;
+}
+
+section#rowPatientSearch1 {
+    background-color: #fff !important;
+    border: none !important;
+	justify-content: flex-start;
+}
+
+section#rowPatientSearch2 {
+    background-color: #fff !important;
+    border: none !important;
+	justify-content: flex-start;
+}
+
+section#rowPatientSearch3 {
+    background-color: #fff !important;
+    border: none !important;
+	justify-content: flex-start;
+}
+
+section#rowPatientSearch4 {
+    background-color: #fff !important;
+    border: none !important;
+	justify-content: flex-start;
+}
+
+section#rowSearchResults_0 {
+    background-color: #fff !important;
+    border: none !important;
+	justify-content: flex-start;
+	color: #555 !important;
+}
+
+a#butSearch {
+    color: #fff !important;
+    background-color: #2a9bf9 !important;
+}
+
+a#butReset {
+    color: #fff !important;
+    background-color: #2a9bf9 !important;
+}
+
+label {
+    color: #2a9bf9 !important;
+}
+
+.form-group.item-date .form-control, .form-group.item-time .form-control {
+    height: 35px;
+    width: 80%;
+}
+
+span.input-group-addon {
+	background-color: #1f314c !important;
+	color: #FFF;
+	width: 44px;
+	cursor: pointer;
+}
+
+span.input-group-addon {
+    line-height: 1.42857143;
+}
+
+input#txtTime {
+    line-height: 1.96;
+    color: #555;
+    text-indent: 10px;
+	width: 155px;
+	border: 1px solid #ccc;
+    height: 36px;
+}
+
+button.btn.btn-default.dropdown-toggle {
+    border: medium solid #E4EDF6 !important;
+    border-radius: 0;
+    background-color: #fff !important;
+    height: 44px;
+    color: #555 !important;
+}
+
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+date-picker .btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+	background-color: #f1f1f1;
+	height: 44px;
+	border: medium solid #E4EDF6 !important;
+}
+
+.collapse {
+    display: none;
+}
+
+.fa-calendar-o:before {
+	content: "\f073";
+}
+
+
+.today{
+	background-color:coral;
+	color:white;
+  	border-radius:4px;
+}
+
+th.today {
+width: 13%;
+text-align: center;
+}
+
+td.today {
+width: 13%;
+text-align: center;
+}
+
+.input-group-addon {
+	line-height:2.2;
+}
+
+.form-group.item-date .input-group-addon, .form-group.item-time .input-group-addon {
+    line-height: 2.2;
+}
+
+.input-group {
+    display: flex;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    height: 56px;
+}
+
+md-question#txtManor {
+    padding-right: 20px;
+}
+
+div#txtFirstname {
+	padding-right: 20px;
+}
+
+div#txtPostCode {
+	padding-right: 20px;
+}
+ 
+div#butSearch {
+    padding-right: 20px;
+}
+
+ol, ul {
+	list-style-type: none;
+	margin-top: 10px;
+    padding: 0;
+}
+
+input#DrugMed1 {
+    width: 60%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.form-control {
+	width: 100%;
+}
+
+.ready {
+	margin-top: 20%;
+    font-size: xx-large;
+	margin-left: 20%;
+	color: #2a9bf9 !important;
+}
+
+resultsText {
+	font-size: 12px !important;
+	color: #555 !important;
+}
+
+div#navSearch {
+    width: 25%;
+}
+
+div#navMeds {
+    width: 25%;
+}
+
+div#navAllergies {
+    width: 25%;
+}
+
+div#navComplete {
+    width: 25%;
+}
+
+a#navSearch {
+    width: 100%;
+    height: 100%;
+    background-color: #2a9bf9;
+    line-height: 3.4;
+}
+
+a#navMeds {
+    width: 100%;
+    height: 100%;
+    line-height: 3.4;
+    background-color: #2a9bf9;
+}
+
+a#navAllergies {
+    width: 100%;
+    height: 100%;
+    line-height: 3.4;
+    background-color: #2a9bf9;
+}
+
+a#navComplete {
+    width: 100%;
+    height: 100%;
+    line-height: 3.4;
+    background-color: #2a9bf9;
+}
+
+input#DrugMed1 {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input#DrugMed1TTO {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input#DrugPrescMed1 {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input#EditPrescDrugMed1 {
+	border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+MedsTable {
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	width: 100%;
+}
+
+.md-list>.main.scrollable {
+    overflow-y: initial;
+}
+
+.content-block {
+    margin-bottom: 0px;
+}
+
+td {
+	font-size: 12px;
+}
+
+.autocomplete {
+    margin-bottom: 20px;
+}
+
+ct-data-grid .ct-data-grid .table-area.fixed-headers .table-container table td .content, ct-data-grid .ct-data-grid .table-area.fixed-headers .table-container table th .content {
+    text-align: left !important;
+}
+
+ct-data-grid .ct-data-grid .table-area .table-container table.selection-mode-row tr.selected, ct-data-grid .ct-data-grid .table-area .table-container table.selection-mode-cell tr.selected {
+    background-color: inherit !important;
+}
+
+a#butRemoveEDMed {
+    border: none;
+    color: red;
+}
+
+a#butAddMeds:hover {
+	border: none;
+    color: red;
+}
+
+.btn .fa {
+    font-size: 24px;
+}
+
+.md-button-container {
+    text-align: left;
+    margin: 10px 0;
+}
+
+span.fa.fa-plus-square {
+    font-size: 14px;
+}
+
+a#butSave {
+    background-color: #2a9bf9;
+    width: 100%;
+    color: #fff;
+}
+
+a#butSave:hover {
+    background-color: #2a9bf9;
+    width: 100%;
+    color: #fff;
+}
+
+a#butLogin {
+    background-color: #2a9bf9;
+    width: 100%;
+    color: #fff;
+}
+
+a#butLogin:hover {
+    background-color: #2a9bf9;
+    width: 100%;
+    color: #fff;
+}
+
+a#butComplete {
+    background-color: #2a9bf9;
+    width: 100%;
+    color: #fff;
+}
+
+a#butComplete:hover {
+    background-color: #2a9bf9;
+    width: 100%;
+    color: #fff;
+}
+
+a#butSaveComments {
+    background-color: #2a9bf9;
+    width: 100%;
+    color: #fff;
+}
+
+a#butSaveComments:hover {
+    background-color: #2a9bf9;
+    width: 100%;
+    color: #fff;
+}
+
+section#rowComplete {
+    background-color: #fff !important;
+    border: none;
+}
+
+div#butSaveComments {
+    width: 40%;
+}
+
+div#butComplete {
+    width: 40%;
+}
+
+.bootstrap-datetimepicker-widget {
+	color:black !important;
+}
+
+span.fa.fa-pencil-square-o {
+    font-size: 18px;
+}
+
+.formLinks {
+	cursor: pointer;
+}
+
+.formLinks:hover {
+     color: #337ab7;
+}
+
+.signature-frame .canvas-frame {
+	margin-left: 0px !important;
+}
+
+.signature-frame {
+	text-align: left !important;
+}
+
+h5 {
+    color: #2a9bf9 !important;
+    font-weight: 700;
+}
+
+md-title#titGPMeds {
+    margin-right: 40%;
+    margin-left: 20%;
+}
+
+div#butGPBack {
+    width: 20%;
+}
+
+a#butDiscontinue {
+    background-color: #2a9bf9;
+    width: 100%;
+    color: #fff;
+}
+
+@font-face {
+  font-family: 'password';
+  font-style: normal;
+  font-weight: 400;
+  src: url(user-assets/password.ttf);
+}
+input#password {
+  font-family: 'password'; 
+}
+
+button.btn.btn-default.search-button {
+    height: 100%;
+}
+input.form-control {
+    height: 100%;
+}
+
+section#rowDose {
+    background-color: #fff !important;
+    border: none;
+	justify-content: flex-start;
+}
+
+select#selUnits {
+    height: 30px;
+	font-size: 13px;
+}
+.md-checkbox-container{
+	text-align: left;
+}
+
+.checkbox-element {
+	padding: 0 0;
+}
+.md-checkbox {
+padding: 0px 40px 10px 0px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: 0px;
+}
+ct-data-grid .ct-data-grid .table-area.fixed-headers .table-container table td .content, ct-data-grid .ct-data-grid .table-area.fixed-headers .table-container table th .content {
+    overflow:auto !important;
+	text-overflow:inherit !important;
+}
+td:hover {
+	overflow: visible;
+}
+td.CommentsCSS {
+    white-space: nowrap;
+}
+.AlertCSS {
+	background:url(user-assets/warning.gif) 0 0 no-repeat;
+	background-position-y: 7px;
+	background-position-x: 7px;
+}
+.TriageCSS1 {
+	color: red;
+}
+.TriageCSS2 {
+	color: orange;
+}
+.TriageCSS3 {
+	color: yellow;
+}
+.TriageCSS4 {
+	color: green;
+}
+.TriageCSS5 {
+	color: blue;
+}
+.timeColourGreen {
+	color: green;
+}
+.timeColourRed {
+	color: red;
+}
+
+ul.dropdown-menu.inner {
+    max-height: 300px !important;
+}
+
+input#Triage1 {
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+ct-data-grid .ct-data-grid .table-area.fixed-headers .table-container table tbody {
+    display: block;
+    flex: 1 1 auto;
+	overflow-y: scroll !important;
+    overflow-x: hidden !important;
+}
+
+ct-data-grid .ct-data-grid {
+    height: 700px !important;
+	max-height: 700px !important;
+}
